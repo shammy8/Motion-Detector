@@ -6,4 +6,4 @@ Also, detects faces and smiles, creates a .jpg of your last smile and tells user
 
 Run the plotting.py file, press q to quit.
 
-Uses OpenCV2, bokeh libraries.
+Uses OpenCV2, bokeh libraries and haarcascades for facial and smile detection.
