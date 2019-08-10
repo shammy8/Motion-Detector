@@ -4,4 +4,6 @@ Motion detector, uses the first frame as reference for no motion. Anything that 
 
 Also, detects faces and smiles, creates a .jpg of your last smile and tells user how long he/she smiled for :D
 
-Run the plotting.py file 
+Run the plotting.py file, press q to quit.
+
+Uses OpenCV2, bokeh libraries.
